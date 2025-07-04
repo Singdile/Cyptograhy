@@ -1,6 +1,6 @@
 ### two time pad is insecure
 重复使用同一个密钥
-![[Pasted image 20250630131214.png]]
+![](../Attachment_box/Pasted%20image%2020250630131214.png)
 
 
 ---
